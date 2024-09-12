@@ -1,6 +1,6 @@
 {
     "name": "Update README.md",
-    "description": "CLI README.md generator for ShotGrid frameworks/engines/apps.",
+    "description": "README.md generator for ShotGrid frameworks/engines/apps and configurations.",
     "iconName": "octicon book",
     "categories": [
         "continuous-integration",
